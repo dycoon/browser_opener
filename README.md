@@ -1,4 +1,8 @@
 
+# What is this
+
+browser_opener opens chrome with urls on windows or ubuntu with delaying every page.
+A little light.
 
 # usage
 
