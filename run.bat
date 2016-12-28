@@ -1,1 +1,1 @@
-ruby open_link.rb
+ruby open_urls.rb
